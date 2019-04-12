@@ -16,10 +16,10 @@
 |Identity Mappings in Deep Residual Networks|_16 Mar 2016_|[arxiv](https://arxiv.org/abs/1603.05027)|---|
 |Aggregated Residual Transformations for Deep Neural Networks|_16 Nov 2016_|[arxiv](https://arxiv.org/abs/1611.05431)|---|
 |Rethinking the Inception Architecture for Computer Vision|_2 Dec 2015_|[arxiv](https://arxiv.org/abs/1512.00567)|---|
-|Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning|[arxiv](https://arxiv.org/abs/1602.07261)|---|
+|Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning|_23 Feb 2016_|[arxiv](https://arxiv.org/abs/1602.07261)|---|
 |MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications|_17 Apr 2017_|[arxiv](https://arxiv.org/abs/1704.04861)|---|
 |MobileNetV2: Inverted Residuals and Linear Bottlenecks|_13 Jan 2018_|[arxiv](https://arxiv.org/abs/1801.04381)|---|
-|Learning Transferable Architectures for Scalable Image Recognition|[arxiv](https://arxiv.org/abs/1610.02357)|---|
+|Learning Transferable Architectures for Scalable Image Recognition|_21 Jul 2017_|[arxiv](https://arxiv.org/abs/1707.07012)|---|
 |Densely Connected Convolutional Networks|_25 Aug 2016_|[arxiv](https://arxiv.org/pdf/1608.06993)|---|
 
 ### Malware Detection and Security
@@ -40,5 +40,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDg5NjUxNTFdfQ==
+eyJoaXN0b3J5IjpbMTA3MjM5NjkzMF19
 -->
