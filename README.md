@@ -2,12 +2,12 @@
 
 # Table of Contents
 1. [Architectures](#architectures)
-    1.1. [Code Generation](#code-generation)
+    1.1. [Keras Pre-trained Models](#keras-models)
     1.2. [Malware Detection and Security](#malware-detection-and-security)
 2. [One Shot Learning](#one-shot)
 
 ## Architectures
-
+### Keras Pre-trained Models
 |Title|Date|Paper|Code|
 |---|---|---|---|
 |Xception: Deep Learning with Depthwise Separable Convolutions|_7 Oct 2016_|[arxiv](https://arxiv.org/abs/1610.02357)|---|
@@ -37,5 +37,5 @@
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzA4OTAxMV19
+eyJoaXN0b3J5IjpbLTUyNjgzNDgxMl19
 -->
