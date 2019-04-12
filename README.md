@@ -16,8 +16,8 @@
 |Identity Mappings in Deep Residual Networks|_16 Mar 2016_|[arxiv](https://arxiv.org/abs/1603.05027)|---|
 |Aggregated Residual Transformations for Deep Neural Networks|_16 Nov 2016_|[arxiv](https://arxiv.org/abs/1611.05431)|---|
 |Rethinking the Inception Architecture for Computer Vision|_2 Dec 2015_|[arxiv](https://arxiv.org/abs/1512.00567)|---|
-|Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning|[arxiv](https://arxiv.org/abs/1610.02357)|---|
-|[arxiv](https://arxiv.org/abs/1610.02357)|---|
+|Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning|[arxiv](https://arxiv.org/abs/1602.07261)|---|
+|# MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications|[arxiv](https://arxiv.org/abs/1610.02357)|---|
 |[arxiv](https://arxiv.org/abs/1610.02357)|---|
 |[arxiv](https://arxiv.org/abs/1610.02357)|---|
 |Densely Connected Convolutional Networks|_25 Aug 2016_|[arxiv](https://arxiv.org/pdf/1608.06993)|---|
@@ -40,5 +40,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Nzg3MzM3Ml19
+eyJoaXN0b3J5IjpbLTk4MDE1ODEzMV19
 -->
