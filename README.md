@@ -35,7 +35,7 @@
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
-|Human-level concept learning through probabilistic program induction|_11 Dec 2015_|[mit](https://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf)|[github](https://github.com/brendenlake/omniglot)|
+|Human-level concept learning through probabilistic program induction|_11 Dec 2015_|[MIT](https://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf)|[github](https://github.com/brendenlake/omniglot)|
 |The Omniglot Challenge: A 3-Year Progress Report|_9 Feb 2019_|[arxiv](https://arxiv.org/pdf/1902.03477)|[paperswithcode](https://paperswithcode.com/paper/the-omniglot-challenge-a-3-year-progress)
 
 ### Models
@@ -44,8 +44,8 @@
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 |Prototypical Networks for Few-shot Learning|_15 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.05175) |  [paperswithcode](https://paperswithcode.com/paper/prototypical-networks-for-few-shot-learning) |
 |Matching Networks for One Shot Learning|_13 Jun 2016_|[arxiv](https://arxiv.org/pdf/1606.04080) |  [paperswithcode](https://paperswithcode.com/paper/matching-networks-for-one-shot-learning) |
-|Siamese Neural Networks for One-shot Image Recognition||[https://www.cs.cmu](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
+|Siamese Neural Networks for One-shot Image Recognition||[CMU](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2OTAyNjU5LDE0Mjc2MjU3MzgsLTUyNj
-gzNDgxMl19
+eyJoaXN0b3J5IjpbLTc0MTA3NTIxNywxNDI3NjI1NzM4LC01Mj
+Y4MzQ4MTJdfQ==
 -->
