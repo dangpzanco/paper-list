@@ -8,7 +8,7 @@
     2.2. [Models](#one-shot-models)
 
 ## Architectures
-### Keras Pre-trained Models
+### Keras Pre-trained Models ([here]([https://keras.io/applications/](https://keras.io/applications/)))
 |Title|Date|Paper|Code|
 |---|---|---|---|
 |Xception: Deep Learning with Depthwise Separable Convolutions|_7 Oct 2016_|[arxiv](https://arxiv.org/abs/1610.02357)|---|
@@ -41,6 +41,6 @@
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 |Prototypical Networks for Few-shot Learning|_15 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.05175) |  [paperswithcode](https://paperswithcode.com/paper/prototypical-networks-for-few-shot-learning) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDEyOTU5MywtNTAwNDk1OTQ2LC03ND
-EwNzUyMTcsMTQyNzYyNTczOCwtNTI2ODM0ODEyXX0=
+eyJoaXN0b3J5IjpbLTE2NDA4NjExNzYsLTUwMDQ5NTk0NiwtNz
+QxMDc1MjE3LDE0Mjc2MjU3MzgsLTUyNjgzNDgxMl19
 -->
