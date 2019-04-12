@@ -12,16 +12,16 @@
 |Title|Date|Paper|Code|
 |---|---|---|---|
 |Xception: Deep Learning with Depthwise Separable Convolutions|_7 Oct 2016_|[arxiv](https://arxiv.org/abs/1610.02357)|[keras](https://keras.io/applications/#xception)|
-|Very Deep Convolutional Networks for Large-Scale Image Recognition|4 Sep 2014|[arxiv](https://arxiv.org/abs/1409.1556)|[keras](https://keras.io/applications/)|
-|Deep Residual Learning for Image Recognition|_10 Dec 2015_|[arxiv](https://arxiv.org/abs/1512.03385)|[keras](https://keras.io/applications/)|
-|Identity Mappings in Deep Residual Networks|_16 Mar 2016_|[arxiv](https://arxiv.org/abs/1603.05027)|[keras](https://keras.io/applications/)|
-|Aggregated Residual Transformations for Deep Neural Networks|_16 Nov 2016_|[arxiv](https://arxiv.org/abs/1611.05431)|[keras](https://keras.io/applications/)|
-|Rethinking the Inception Architecture for Computer Vision|_2 Dec 2015_|[arxiv](https://arxiv.org/abs/1512.00567)|[keras](https://keras.io/applications/)|
-|Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning|_23 Feb 2016_|[arxiv](https://arxiv.org/abs/1602.07261)|[keras](https://keras.io/applications/)|
-|MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications|_17 Apr 2017_|[arxiv](https://arxiv.org/abs/1704.04861)|[keras](https://keras.io/applications/)|
-|MobileNetV2: Inverted Residuals and Linear Bottlenecks|_13 Jan 2018_|[arxiv](https://arxiv.org/abs/1801.04381)|[keras](https://keras.io/applications/)|
-|Learning Transferable Architectures for Scalable Image Recognition|_21 Jul 2017_|[arxiv](https://arxiv.org/abs/1707.07012)|[keras](https://keras.io/applications/)|
-|Densely Connected Convolutional Networks|_25 Aug 2016_|[arxiv](https://arxiv.org/pdf/1608.06993)|[keras](https://keras.io/applications/)|
+|Very Deep Convolutional Networks for Large-Scale Image Recognition|4 Sep 2014|[arxiv](https://arxiv.org/abs/1409.1556)|[keras](https://keras.io/applications/#vgg16)|
+|Deep Residual Learning for Image Recognition|_10 Dec 2015_|[arxiv](https://arxiv.org/abs/1512.03385)|[keras](https://keras.io/applications/#resnet)|
+|Identity Mappings in Deep Residual Networks|_16 Mar 2016_|[arxiv](https://arxiv.org/abs/1603.05027)|[keras](https://keras.io/applications/#resnet)|
+|Aggregated Residual Transformations for Deep Neural Networks|_16 Nov 2016_|[arxiv](https://arxiv.org/abs/1611.05431)|[keras](https://keras.io/applications/#resnet)|
+|Rethinking the Inception Architecture for Computer Vision|_2 Dec 2015_|[arxiv](https://arxiv.org/abs/1512.00567)|[keras](https://keras.io/applications/#inceptionv3)|
+|Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning|_23 Feb 2016_|[arxiv](https://arxiv.org/abs/1602.07261)|[keras](https://keras.io/applications/#inceptionresnetv2)|
+|MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications|_17 Apr 2017_|[arxiv](https://arxiv.org/abs/1704.04861)|[keras](https://keras.io/applications/#mobilenet)|
+|MobileNetV2: Inverted Residuals and Linear Bottlenecks|_13 Jan 2018_|[arxiv](https://arxiv.org/abs/1801.04381)|[keras](https://keras.io/applications/#mobilenetv2)|
+|Learning Transferable Architectures for Scalable Image Recognition|_21 Jul 2017_|[arxiv](https://arxiv.org/abs/1707.07012)|[keras](https://keras.io/applications/#densenet)|
+|Densely Connected Convolutional Networks|_25 Aug 2016_|[arxiv](https://arxiv.org/pdf/1608.06993)|[keras](https://keras.io/applications/#nasnet)|
 
 
 ## One Shot Learning
@@ -41,6 +41,6 @@
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 |Prototypical Networks for Few-shot Learning|_15 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.05175) |  [paperswithcode](https://paperswithcode.com/paper/prototypical-networks-for-few-shot-learning) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTAwMTI2LC01MDA0OTU5NDYsLTc0MT
+eyJoaXN0b3J5IjpbNDYxMjgyMzQ3LC01MDA0OTU5NDYsLTc0MT
 A3NTIxNywxNDI3NjI1NzM4LC01MjY4MzQ4MTJdfQ==
 -->
