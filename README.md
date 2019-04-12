@@ -35,7 +35,8 @@
 |Title|Date|Paper|Code|
 |---|---|---|---|
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
-|Human-level concept learning through probabilistic program induction|_11 Dec 2015_|[mit](https://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf)||
+|Human-level concept learning through probabilistic program induction|_11 Dec 2015_|[mit](https://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf)|[github](https://github.com/brendenlake/omniglot)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzYyNTczOCwtNTI2ODM0ODEyXX0=
+eyJoaXN0b3J5IjpbLTEwMjEyMDE2NTMsMTQyNzYyNTczOCwtNT
+I2ODM0ODEyXX0=
 -->
