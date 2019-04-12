@@ -10,7 +10,7 @@
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
-|---|---|---|---|
+|Densely Connected Convolutional Networks|_25 Aug 2016_|[arxiv](https://arxiv.org/pdf/1605.08535)|---|
 |---|---|---|---|
 
 | Deep API Learning | _27 may 2016_ | [arxiv](https://arxiv.org/pdf/1605.08535) |  | 
@@ -32,5 +32,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzM5NTI1OV19
+eyJoaXN0b3J5IjpbLTEzOTc5MzkzNDldfQ==
 -->
