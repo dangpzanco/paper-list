@@ -14,7 +14,11 @@
 |Very Deep Convolutional Networks for Large-Scale Image Recognition|4 Sep 2014|[arxiv](https://arxiv.org/abs/1409.1556)|---|
 |Deep Residual Learning for Image Recognition|_10 Dec 2015_|[arxiv](https://arxiv.org/abs/1512.03385)|---|
 |Identity Mappings in Deep Residual Networks|_16 Mar 2016_|[arxiv](https://arxiv.org/abs/1603.05027)|---|
-|Aggregated Residual Transformations for Deep Neural Networks||[arxiv](https://arxiv.org/abs/1610.02357)|---|
+|Aggregated Residual Transformations for Deep Neural Networks|_16 Nov 2016_|[arxiv](https://arxiv.org/abs/1611.05431)|---|
+|Rethinking the Inception Architecture for Computer Vision|_2 Dec 2015_|[arxiv](https://arxiv.org/abs/1512.00567)|---|
+|Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning|[arxiv](https://arxiv.org/abs/1610.02357)|---|
+|[arxiv](https://arxiv.org/abs/1610.02357)|---|
+|[arxiv](https://arxiv.org/abs/1610.02357)|---|
 |[arxiv](https://arxiv.org/abs/1610.02357)|---|
 |Densely Connected Convolutional Networks|_25 Aug 2016_|[arxiv](https://arxiv.org/pdf/1608.06993)|---|
 
@@ -36,5 +40,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2NjU1ODg1XX0=
+eyJoaXN0b3J5IjpbLTk5Nzg3MzM3Ml19
 -->
