@@ -31,12 +31,20 @@
 | Droid-Sec: Deep Learning in Android Malware Detection | _17 aug 2014_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/droid-sec-deep-learning-in-android-malware-detection.pdf) | [github](https://github.com/pjlantz/droidbox) | 
 
 ## One Shot Learning
+### Datasets
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 |Human-level concept learning through probabilistic program induction|_11 Dec 2015_|[mit](https://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf)|[github](https://github.com/brendenlake/omniglot)|
+|The Omniglot Challenge: A 3-Year Progress Report|_9 Feb 2019_|[arxiv](https://arxiv.org/pdf/1902.03477)|[paperswithcode](https://paperswithcode.com/paper/the-omniglot-challenge-a-3-year-progress)
+
+|Title|Date|Paper|Code|
+|---|---|---|---|
+|Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
+|Human-level concept learning through probabilistic program induction|_11 Dec 2015_|[mit](https://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf)|[github](https://github.com/brendenlake/omniglot)|
+|The Omniglot Challenge: A 3-Year Progress Report|_9 Feb 2019_|[arxiv](https://arxiv.org/pdf/1902.03477)|[paperswithcode](https://paperswithcode.com/paper/the-omniglot-challenge-a-3-year-progress)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjEyMDE2NTMsMTQyNzYyNTczOCwtNT
-I2ODM0ODEyXX0=
+eyJoaXN0b3J5IjpbLTc4OTY5NDk1MSwxNDI3NjI1NzM4LC01Mj
+Y4MzQ4MTJdfQ==
 -->
