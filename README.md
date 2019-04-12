@@ -10,8 +10,13 @@
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
+|Xception: Deep Learning with Depthwise Separable Convolutions|_7 Oct 2016_|[arxiv](https://arxiv.org/abs/1610.02357)|---|
+|Very Deep Convolutional Networks for Large-Scale Image Recognition|4 Sep 2014|[arxiv](https://arxiv.org/abs/1610.02357)|---|
+|[arxiv](https://arxiv.org/abs/1610.02357)|---|
+|[arxiv](https://arxiv.org/abs/1610.02357)|---|
+|[arxiv](https://arxiv.org/abs/1610.02357)|---|
+|[arxiv](https://arxiv.org/abs/1610.02357)|---|
 |Densely Connected Convolutional Networks|_25 Aug 2016_|[arxiv](https://arxiv.org/pdf/1608.06993)|---|
-|Xception: Deep Learning with Depthwise Separable Convolutions|[https://.](https://arxiv.org/abs/1610.02357)|
 
 ### Malware Detection and Security
 
@@ -31,5 +36,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3ODEzNDU2MV19
+eyJoaXN0b3J5IjpbMTkyMzMzNjM3XX0=
 -->
