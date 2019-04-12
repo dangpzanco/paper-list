@@ -2,8 +2,7 @@
 
 # Table of Contents
 1. [Architectures](#architectures)
-
-	1.1. [Keras Pre-trained Models](#keras-models)
+1.1. [Keras Pre-trained Models](#keras-models)
 	
 3. [One Shot Learning](#one-shot)
 
@@ -45,7 +44,7 @@
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 |Prototypical Networks for Few-shot Learning|_15 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.05175) |  [paperswithcode](https://paperswithcode.com/paper/prototypical-networks-for-few-shot-learning) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzNzY0ODU0LDQ2MTI4MjM0NywtNTAwND
-k1OTQ2LC03NDEwNzUyMTcsMTQyNzYyNTczOCwtNTI2ODM0ODEy
-XX0=
+eyJoaXN0b3J5IjpbLTE4MDY4OTc5NzIsNDYxMjgyMzQ3LC01MD
+A0OTU5NDYsLTc0MTA3NTIxNywxNDI3NjI1NzM4LC01MjY4MzQ4
+MTJdfQ==
 -->
