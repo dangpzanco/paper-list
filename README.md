@@ -10,10 +10,9 @@
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
-|Densely Connected Convolutional Networks|_25 Aug 2016_|[arxiv](https://arxiv.org/pdf/1605.08535)|---|
-|---|---|---|---|
+|Densely Connected Convolutional Networks|_25 Aug 2016_|[arxiv](https://arxiv.org/pdf/1608.06993)|---|
+|Xception: Deep Learning with Depthwise Separable Convolutions|[https://.](https://arxiv.org/abs/1610.02357)|
 
-| Deep API Learning | _27 may 2016_ | [arxiv](https://arxiv.org/pdf/1605.08535) |  | 
 ### Malware Detection and Security
 
 |Title|Date|Paper|Code|
@@ -32,5 +31,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTc5MzkzNDldfQ==
+eyJoaXN0b3J5IjpbMTA3ODEzNDU2MV19
 -->
