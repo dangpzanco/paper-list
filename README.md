@@ -3,8 +3,9 @@
 # Table of Contents
 1. [Architectures](#architectures)
     1.1. [Keras Pre-trained Models](#keras-models)
-    1.2. [Malware Detection and Security](#malware-detection-and-security)
 2. [One Shot Learning](#one-shot)
+    2.1. [Datasets](#one-shot-datasets)
+    2.2. [Models](#one-shot-models)
 
 ## Architectures
 ### Keras Pre-trained Models
@@ -22,13 +23,6 @@
 |Learning Transferable Architectures for Scalable Image Recognition|_21 Jul 2017_|[arxiv](https://arxiv.org/abs/1707.07012)|---|
 |Densely Connected Convolutional Networks|_25 Aug 2016_|[arxiv](https://arxiv.org/pdf/1608.06993)|---|
 
-### Malware Detection and Security
-
-|Title|Date|Paper|Code|
-|---|---|---|---|
-| PassGAN: A Deep Learning Approach for Password Guessing | _1 sep 2017_ | [arxiv](https://arxiv.org/pdf/1709.00440) |  | 
-| Deep Android Malware Detection | _22 mar 2016_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/deep-android-malware-detection.pdf) | [github](https://github.com/niallmcl/Deep-Android-Malware-Detection) | 
-| Droid-Sec: Deep Learning in Android Malware Detection | _17 aug 2014_ | [paper](https://github.com/sbrugman/deep-learning-papers/raw/master/papers/droid-sec-deep-learning-in-android-malware-detection.pdf) | [github](https://github.com/pjlantz/droidbox) | 
 
 ## One Shot Learning
 ### Datasets
@@ -47,6 +41,6 @@
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 |Prototypical Networks for Few-shot Learning|_15 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.05175) |  [paperswithcode](https://paperswithcode.com/paper/prototypical-networks-for-few-shot-learning) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDQ5NTk0NiwtNzQxMDc1MjE3LDE0Mj
-c2MjU3MzgsLTUyNjgzNDgxMl19
+eyJoaXN0b3J5IjpbMTU3NDEyOTU5MywtNTAwNDk1OTQ2LC03ND
+EwNzUyMTcsMTQyNzYyNTczOCwtNTI2ODM0ODEyXX0=
 -->
