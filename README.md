@@ -1,9 +1,15 @@
 # Paper Read List
 
 # Table of Contents
-1. [Code](#code)
-	1.1. [Code Generation](#code-generation)
-	1.2. [Malware Detection and Security](#malware-detection-and-security)
+1. [Architectures](#architectures)
+
+	1.1. [Keras Pre-trained Models](#keras-models)
+	
+3. [One Shot Learning](#one-shot)
+
+	2.1. [Datasets](#one-shot-datasets)
+	
+	2.2. [Models](#one-shot-models)
 
 ## Architectures
 ### Keras Pre-trained Models
@@ -39,7 +45,7 @@
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 |Prototypical Networks for Few-shot Learning|_15 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.05175) |  [paperswithcode](https://paperswithcode.com/paper/prototypical-networks-for-few-shot-learning) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI1MjEzMjAsNDYxMjgyMzQ3LC01MD
-A0OTU5NDYsLTc0MTA3NTIxNywxNDI3NjI1NzM4LC01MjY4MzQ4
-MTJdfQ==
+eyJoaXN0b3J5IjpbNTEzNzY0ODU0LDQ2MTI4MjM0NywtNTAwND
+k1OTQ2LC03NDEwNzUyMTcsMTQyNzYyNTczOCwtNTI2ODM0ODEy
+XX0=
 -->
