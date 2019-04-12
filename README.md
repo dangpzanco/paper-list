@@ -44,8 +44,8 @@
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 |Prototypical Networks for Few-shot Learning|_15 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.05175) |  [paperswithcode](https://paperswithcode.com/paper/prototypical-networks-for-few-shot-learning) |
 |Matching Networks for One Shot Learning|_13 Jun 2016_|[arxiv](https://arxiv.org/pdf/1606.04080) |  [paperswithcode](https://paperswithcode.com/paper/matching-networks-for-one-shot-learning) |
-|Siamese Neural Networks for One-shot Image Recognition||[CMU](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)|
+|Siamese Neural Networks for One-shot Image Recognition|_2015_|[CMU](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)|[gtihub](https://github.com/Goldesel23/Siamese-Networks-for-One-Shot-Learning)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTA3NTIxNywxNDI3NjI1NzM4LC01Mj
-Y4MzQ4MTJdfQ==
+eyJoaXN0b3J5IjpbNzk0ODAxNzYsLTc0MTA3NTIxNywxNDI3Nj
+I1NzM4LC01MjY4MzQ4MTJdfQ==
 -->
