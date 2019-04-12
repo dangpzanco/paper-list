@@ -1,7 +1,7 @@
 # Paper Read List
 
 # Table of Contents
-1. [Code](#code)
+1. [Architectures](#architectures)
     1.1. [Code Generation](#code-generation)
     1.2. [Malware Detection and Security](#malware-detection-and-security)
 2. [One Shot Learning](#one-shot)
@@ -34,11 +34,8 @@
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
-| Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks | _18 Jul 2017_ | [arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) | 
-| Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks | _18 Jul 2017_ | [arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) | 
-| Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks | _18 Jul 2017_ | [arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) | 
-
+|Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjM5NjkzMF19
+eyJoaXN0b3J5IjpbLTUzMzA4OTAxMV19
 -->
