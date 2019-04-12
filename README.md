@@ -13,8 +13,8 @@
 |Xception: Deep Learning with Depthwise Separable Convolutions|_7 Oct 2016_|[arxiv](https://arxiv.org/abs/1610.02357)|---|
 |Very Deep Convolutional Networks for Large-Scale Image Recognition|4 Sep 2014|[arxiv](https://arxiv.org/abs/1409.1556)|---|
 |Deep Residual Learning for Image Recognition|_10 Dec 2015_|[arxiv](https://arxiv.org/abs/1512.03385)|---|
-|Identity Mappings in Deep Residual Networks||[arxiv](https://arxiv.org/abs/1610.02357)|---|
-|[arxiv](https://arxiv.org/abs/1610.02357)|---|
+|Identity Mappings in Deep Residual Networks|_16 Mar 2016_|[arxiv](https://arxiv.org/abs/1603.05027)|---|
+|Aggregated Residual Transformations for Deep Neural Networks||[arxiv](https://arxiv.org/abs/1610.02357)|---|
 |[arxiv](https://arxiv.org/abs/1610.02357)|---|
 |Densely Connected Convolutional Networks|_25 Aug 2016_|[arxiv](https://arxiv.org/pdf/1608.06993)|---|
 
@@ -36,5 +36,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0OTQ5MTU5NV19
+eyJoaXN0b3J5IjpbODM2NjU1ODg1XX0=
 -->
