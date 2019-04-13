@@ -12,7 +12,7 @@
 3. [One Shot Learning](#one-shot)
 
 	3.1. [Discussion](#one-shot-discussion)
-	
+
 	3.2. [Models](#one-shot-models)
 
 ## Architectures
@@ -52,11 +52,13 @@
 |Mini-ImageNet|Optimization as a Model for Few-Shot Learning|_01 Mar 2017_|[openreview](https://openreview.net/forum?id=rJY0-Kcll)|[github](https://github.com/oscarknagg/few-shot)
 
 ## One Shot Learning
+
 ### Discussion
 |Title|Date|Paper|Code|
 |---|---|---|---|
 |One shot learning of simple visual concepts|_1 Jan 2011_|[NYU](https://cims.nyu.edu/~brenden/LakeEtAl2011CogSci.pdf)|---|
 |The Omniglot Challenge: A 3-Year Progress Report|_9 Feb 2019_|[arxiv](https://arxiv.org/pdf/1902.03477)|[paperswithcode](https://paperswithcode.com/paper/the-omniglot-challenge-a-3-year-progress)
+
 ### Models
 |Title|Date|Paper|Code|
 |---|---|---|---|
@@ -65,7 +67,7 @@
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 |Prototypical Networks for Few-shot Learning|_15 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.05175) |  [paperswithcode](https://paperswithcode.com/paper/prototypical-networks-for-few-shot-learning) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTE2MDQ1MjcsMTIyNDI5NDEwOSwyND
+eyJoaXN0b3J5IjpbLTExMTQyOTIwMDMsMTIyNDI5NDEwOSwyND
 I3NjYyNzYsMjA4MjAzMjcyMSw0NTMyOTI3NTUsLTM5MDEwOTA3
 Myw0NjEyODIzNDcsLTUwMDQ5NTk0NiwtNzQxMDc1MjE3LDE0Mj
 c2MjU3MzgsLTUyNjgzNDgxMl19
