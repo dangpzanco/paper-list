@@ -35,6 +35,7 @@
 |Nickname|Title|Date|Paper|Code|
 |---|---|---|---|---|
 |MNIST|Gradient-based learning applied to document recognition|_November 1998_|[lecun](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)|[lecun](http://yann.lecun.com/exdb/mnist/)
+|Fashion-MNIST|Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms|_25 Aug 2017_|[arxiv](https://arxiv.org/abs/1708.07747)|[github](https://github.com/zalandoresearch/fashion-mnist)
 |Kuzushiji-MNIST|Deep Learning for Classical Japanese Literature|_3 Dec 2018_|[arxiv](https://arxiv.org/abs/1812.01718)|[github](https://github.com/rois-codh/kmnist)|
 |CIFAR-10/100|Learning Multiple Layers of Features from Tiny Images|_8 April 2009_|[toronto](https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf)|[toronto](https://www.cs.toronto.edu/~kriz/cifar.html)
 
@@ -55,7 +56,7 @@
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 |Prototypical Networks for Few-shot Learning|_15 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.05175) |  [paperswithcode](https://paperswithcode.com/paper/prototypical-networks-for-few-shot-learning) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUzMjkyNzU1LC0zOTAxMDkwNzMsNDYxMj
-gyMzQ3LC01MDA0OTU5NDYsLTc0MTA3NTIxNywxNDI3NjI1NzM4
-LC01MjY4MzQ4MTJdfQ==
+eyJoaXN0b3J5IjpbMTU1MzQwNDExMiw0NTMyOTI3NTUsLTM5MD
+EwOTA3Myw0NjEyODIzNDcsLTUwMDQ5NTk0NiwtNzQxMDc1MjE3
+LDE0Mjc2MjU3MzgsLTUyNjgzNDgxMl19
 -->
