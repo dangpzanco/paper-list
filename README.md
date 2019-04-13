@@ -44,7 +44,7 @@
 |Nickname|Title|Date|Paper|Code|
 |---|---|---|---|---|
 |Omniglot|Human-level concept learning through probabilistic program induction|_11 Dec 2015_|[MIT](https://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf)|[github](https://github.com/brendenlake/omniglot)|
-|One Shot Pokémon Images|---|_29 May 2018_|---|[kaggle](https://www.kaggle.com/aaronyin/oneshotpokemon)
+|One Shot Pokémon Images|**NOT A PAPER**|_29 May 2018_||[kaggle](https://www.kaggle.com/aaronyin/oneshotpokemon)
 
 ## One Shot Learning
 ### Discussion
@@ -60,7 +60,7 @@
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 |Prototypical Networks for Few-shot Learning|_15 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.05175) |  [paperswithcode](https://paperswithcode.com/paper/prototypical-networks-for-few-shot-learning) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwODM3NDY3LDQ1MzI5Mjc1NSwtMzkwMT
-A5MDczLDQ2MTI4MjM0NywtNTAwNDk1OTQ2LC03NDEwNzUyMTcs
-MTQyNzYyNTczOCwtNTI2ODM0ODEyXX0=
+eyJoaXN0b3J5IjpbMjA4MjAzMjcyMSw0NTMyOTI3NTUsLTM5MD
+EwOTA3Myw0NjEyODIzNDcsLTUwMDQ5NTk0NiwtNzQxMDc1MjE3
+LDE0Mjc2MjU3MzgsLTUyNjgzNDgxMl19
 -->
