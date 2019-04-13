@@ -5,13 +5,13 @@
 	
 	1.1. [Keras Pre-trained Models](#keras-models)
 	
-2. [Datasets](#one-shot)
+2. [Datasets](#datasets)
 
-	2.1. [Image](#one-shot-datasets)
+	2.1. [Images](#datasets-images)
 
 3. [One Shot Learning](#one-shot)
 
-	3.1. [Datasets](#one-shot-datasets)
+	3.1. [Discussion](#one-shot-discussion)
 	
 	3.2. [Models](#one-shot-models)
 
@@ -65,7 +65,7 @@
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 |Prototypical Networks for Few-shot Learning|_15 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.05175) |  [paperswithcode](https://paperswithcode.com/paper/prototypical-networks-for-few-shot-learning) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDMwOTg1NDMsMTIyNDI5NDEwOSwyND
+eyJoaXN0b3J5IjpbLTEyNTE2MDQ1MjcsMTIyNDI5NDEwOSwyND
 I3NjYyNzYsMjA4MjAzMjcyMSw0NTMyOTI3NTUsLTM5MDEwOTA3
 Myw0NjEyODIzNDcsLTUwMDQ5NTk0NiwtNzQxMDc1MjE3LDE0Mj
 c2MjU3MzgsLTUyNjgzNDgxMl19
