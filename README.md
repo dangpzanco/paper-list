@@ -35,7 +35,7 @@
 |Nickname|Title|Date|Paper|Code|
 |---|---|---|---|---|
 |Kuzushiji-MNIST|Deep Learning for Classical Japanese Literature|_3 Dec 2018_|[arxiv](https://arxiv.org/abs/1812.01718)|[github](https://github.com/rois-codh/kmnist)|
-|CIFAR-10/|
+|CIFAR-10,100|Learning Multiple Layers of Features from Tiny Images|_8 April 2009_|[toronto](https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf)|[toronto](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ### One Shot Learning
 
@@ -54,7 +54,7 @@
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 |Prototypical Networks for Few-shot Learning|_15 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.05175) |  [paperswithcode](https://paperswithcode.com/paper/prototypical-networks-for-few-shot-learning) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE4MzM5NDE2LC0zOTAxMDkwNzMsNDYxMj
-gyMzQ3LC01MDA0OTU5NDYsLTc0MTA3NTIxNywxNDI3NjI1NzM4
-LC01MjY4MzQ4MTJdfQ==
+eyJoaXN0b3J5IjpbMTIwNTc3OTQ0OCwtMzkwMTA5MDczLDQ2MT
+I4MjM0NywtNTAwNDk1OTQ2LC03NDEwNzUyMTcsMTQyNzYyNTcz
+OCwtNTI2ODM0ODEyXX0=
 -->
