@@ -13,7 +13,7 @@
 
 	3.1. [Discussion](#discussion)
 
-	3.2. [Models](#models)
+	3.2. [images](#images)
 
 ## Architectures
 
@@ -62,7 +62,7 @@
 |One shot learning of simple visual concepts|_1 Jan 2011_|[NYU](https://cims.nyu.edu/~brenden/LakeEtAl2011CogSci.pdf)|---|
 |The Omniglot Challenge: A 3-Year Progress Report|_9 Feb 2019_|[arxiv](https://arxiv.org/pdf/1902.03477)|[paperswithcode](https://paperswithcode.com/paper/the-omniglot-challenge-a-3-year-progress)
 
-### Models
+### images
 |Title|Date|Paper|Code|
 |---|---|---|---|
 |Siamese Neural Networks for One-shot Image Recognition|_2015_|[CMU](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)|[gtihub](https://github.com/Goldesel23/Siamese-Networks-for-One-Shot-Learning)|
@@ -70,8 +70,8 @@
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 |Prototypical Networks for Few-shot Learning|_15 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.05175) |  [paperswithcode](https://paperswithcode.com/paper/prototypical-networks-for-few-shot-learning) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY5NDYyMDYsLTU2NjYzODUxNywxMj
-I0Mjk0MTA5LDI0Mjc2NjI3NiwyMDgyMDMyNzIxLDQ1MzI5Mjc1
-NSwtMzkwMTA5MDczLDQ2MTI4MjM0NywtNTAwNDk1OTQ2LC03ND
-EwNzUyMTcsMTQyNzYyNTczOCwtNTI2ODM0ODEyXX0=
+eyJoaXN0b3J5IjpbLTU5NDk5NTQwOCwtNTY2NjM4NTE3LDEyMj
+QyOTQxMDksMjQyNzY2Mjc2LDIwODIwMzI3MjEsNDUzMjkyNzU1
+LC0zOTAxMDkwNzMsNDYxMjgyMzQ3LC01MDA0OTU5NDYsLTc0MT
+A3NTIxNywxNDI3NjI1NzM4LC01MjY4MzQ4MTJdfQ==
 -->
