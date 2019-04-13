@@ -32,6 +32,9 @@
 ## Datasets
 
 ### Images
+|Title|Date|Paper|Code|
+|---|---|---|---|
+|Deep Learning for Classical Japanese Literature|_3 Dec 2018_|[arxiv](https://arxiv.org/abs/1812.01718)|[github](https://github.com/rois-codh/kmnist)|
 
 ### One Shot Learning
 
@@ -50,7 +53,7 @@
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 |Prototypical Networks for Few-shot Learning|_15 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.05175) |  [paperswithcode](https://paperswithcode.com/paper/prototypical-networks-for-few-shot-learning) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk3NzQ4NzkyLC0zOTAxMDkwNzMsNDYxMj
-gyMzQ3LC01MDA0OTU5NDYsLTc0MTA3NTIxNywxNDI3NjI1NzM4
-LC01MjY4MzQ4MTJdfQ==
+eyJoaXN0b3J5IjpbMTExMjcyOTEyNywtMzkwMTA5MDczLDQ2MT
+I4MjM0NywtNTAwNDk1OTQ2LC03NDEwNzUyMTcsMTQyNzYyNTcz
+OCwtNTI2ODM0ODEyXX0=
 -->
