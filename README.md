@@ -28,8 +28,12 @@
 |Densely Connected Convolutional Networks|_25 Aug 2016_|[arxiv](https://arxiv.org/pdf/1608.06993)|[keras](https://keras.io/applications/#nasnet)|
 
 
-## One Shot Learning
-### Datasets
+
+## Datasets
+
+### Images
+
+### One Shot Learning
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
@@ -37,6 +41,7 @@
 |Human-level concept learning through probabilistic program induction|_11 Dec 2015_|[MIT](https://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf)|[github](https://github.com/brendenlake/omniglot)|
 |The Omniglot Challenge: A 3-Year Progress Report|_9 Feb 2019_|[arxiv](https://arxiv.org/pdf/1902.03477)|[paperswithcode](https://paperswithcode.com/paper/the-omniglot-challenge-a-3-year-progress)
 
+## One Shot Learning
 ### Models
 |Title|Date|Paper|Code|
 |---|---|---|---|
@@ -45,7 +50,7 @@
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 |Prototypical Networks for Few-shot Learning|_15 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.05175) |  [paperswithcode](https://paperswithcode.com/paper/prototypical-networks-for-few-shot-learning) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDEwOTA3Myw0NjEyODIzNDcsLTUwMD
-Q5NTk0NiwtNzQxMDc1MjE3LDE0Mjc2MjU3MzgsLTUyNjgzNDgx
-Ml19
+eyJoaXN0b3J5IjpbNDk3NzQ4NzkyLC0zOTAxMDkwNzMsNDYxMj
+gyMzQ3LC01MDA0OTU5NDYsLTc0MTA3NTIxNywxNDI3NjI1NzM4
+LC01MjY4MzQ4MTJdfQ==
 -->
