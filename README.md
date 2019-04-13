@@ -16,7 +16,9 @@
 	3.2. [Models](#one-shot-models)
 
 ## Architectures
+
 ### Keras Pre-trained Models
+
 |Title|Date|Paper|Code|
 |---|---|---|---|
 |Xception: Deep Learning with Depthwise Separable Convolutions|_7 Oct 2016_|[arxiv](https://arxiv.org/abs/1610.02357)|[keras](https://keras.io/applications/#xception)|
@@ -36,6 +38,7 @@
 ## Datasets
 
 ### Images
+
 |Nickname|Title|Date|Paper|Code|
 |---|---|---|---|---|
 |MNIST|Gradient-based learning applied to document recognition|_Nov 1998_|[lecun](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)|[lecun](http://yann.lecun.com/exdb/mnist/)
@@ -67,8 +70,8 @@
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 |Prototypical Networks for Few-shot Learning|_15 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.05175) |  [paperswithcode](https://paperswithcode.com/paper/prototypical-networks-for-few-shot-learning) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQyOTIwMDMsMTIyNDI5NDEwOSwyND
-I3NjYyNzYsMjA4MjAzMjcyMSw0NTMyOTI3NTUsLTM5MDEwOTA3
-Myw0NjEyODIzNDcsLTUwMDQ5NTk0NiwtNzQxMDc1MjE3LDE0Mj
-c2MjU3MzgsLTUyNjgzNDgxMl19
+eyJoaXN0b3J5IjpbLTU2NjYzODUxNywxMjI0Mjk0MTA5LDI0Mj
+c2NjI3NiwyMDgyMDMyNzIxLDQ1MzI5Mjc1NSwtMzkwMTA5MDcz
+LDQ2MTI4MjM0NywtNTAwNDk1OTQ2LC03NDEwNzUyMTcsMTQyNz
+YyNTczOCwtNTI2ODM0ODEyXX0=
 -->
