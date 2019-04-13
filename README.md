@@ -3,17 +3,17 @@
 # Table of Contents
 1. [Architectures](#architectures)
 	
-	1.1. [Keras Pre-trained Models](#keras-models)
+	1.1. [Keras Pre-trained Models](#keras-pre-trained-models)
 	
 2. [Datasets](#datasets)
 
-	2.1. [Images](#datasets-images)
+	2.1. [Images](#images)
 
-3. [One Shot Learning](#one-shot)
+3. [One Shot Learning](#one-shot-learning)
 
-	3.1. [Discussion](#one-shot-discussion)
+	3.1. [Discussion](#discussion)
 
-	3.2. [Models](#one-shot-models)
+	3.2. [Models](#models)
 
 ## Architectures
 
@@ -70,8 +70,8 @@
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 |Prototypical Networks for Few-shot Learning|_15 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.05175) |  [paperswithcode](https://paperswithcode.com/paper/prototypical-networks-for-few-shot-learning) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjYzODUxNywxMjI0Mjk0MTA5LDI0Mj
-c2NjI3NiwyMDgyMDMyNzIxLDQ1MzI5Mjc1NSwtMzkwMTA5MDcz
-LDQ2MTI4MjM0NywtNTAwNDk1OTQ2LC03NDEwNzUyMTcsMTQyNz
-YyNTczOCwtNTI2ODM0ODEyXX0=
+eyJoaXN0b3J5IjpbLTE4NzY5NDYyMDYsLTU2NjYzODUxNywxMj
+I0Mjk0MTA5LDI0Mjc2NjI3NiwyMDgyMDMyNzIxLDQ1MzI5Mjc1
+NSwtMzkwMTA5MDczLDQ2MTI4MjM0NywtNTAwNDk1OTQ2LC03ND
+EwNzUyMTcsMTQyNzYyNTczOCwtNTI2ODM0ODEyXX0=
 -->
