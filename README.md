@@ -43,15 +43,15 @@
 
 |Nickname|Title|Date|Paper|Code|
 |---|---|---|---|---|
-|
+|One Shot Pokémon Images|---|_29 May 2018_|
 |Omniglot|Human-level concept learning through probabilistic program induction|_11 Dec 2015_|[MIT](https://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf)|[github](https://github.com/brendenlake/omniglot)|
-||The Omniglot Challenge: A 3-Year Progress Report|_9 Feb 2019_|[arxiv](https://arxiv.org/pdf/1902.03477)|[paperswithcode](https://paperswithcode.com/paper/the-omniglot-challenge-a-3-year-progress)
 
 ## One Shot Learning
-#
+### Discussion
 |Title|Date|Paper|Code|
 |---|---|---|---|
 |One shot learning of simple visual concepts|_1 Jan 2011_|[NYU](https://cims.nyu.edu/~brenden/LakeEtAl2011CogSci.pdf)|---|
+|The Omniglot Challenge: A 3-Year Progress Report|_9 Feb 2019_|[arxiv](https://arxiv.org/pdf/1902.03477)|[paperswithcode](https://paperswithcode.com/paper/the-omniglot-challenge-a-3-year-progress)
 ### Models
 |Title|Date|Paper|Code|
 |---|---|---|---|
@@ -60,7 +60,7 @@
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 |Prototypical Networks for Few-shot Learning|_15 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.05175) |  [paperswithcode](https://paperswithcode.com/paper/prototypical-networks-for-few-shot-learning) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODE5NTI0MSw0NTMyOTI3NTUsLTM5MD
+eyJoaXN0b3J5IjpbMTY4OTMzMzU5MCw0NTMyOTI3NTUsLTM5MD
 EwOTA3Myw0NjEyODIzNDcsLTUwMDQ5NTk0NiwtNzQxMDc1MjE3
 LDE0Mjc2MjU3MzgsLTUyNjgzNDgxMl19
 -->
