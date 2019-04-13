@@ -13,7 +13,7 @@
 
 	3.1. [Discussion](#discussion)
 
-	3.2. [Models](.#models)
+	3.2. [Models](#models)
 
 ## Architectures
 
@@ -70,9 +70,9 @@
 |Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|_9 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.03400) |  [paperswithcode](https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast) |
 |Prototypical Networks for Few-shot Learning|_15 Mar 2017_|[arxiv](https://arxiv.org/pdf/1703.05175) |  [paperswithcode](https://paperswithcode.com/paper/prototypical-networks-for-few-shot-learning) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NzkwOTQ1MCwtMTg3Njk0NjIwNiwtNT
-Y2NjM4NTE3LDEyMjQyOTQxMDksMjQyNzY2Mjc2LDIwODIwMzI3
-MjEsNDUzMjkyNzU1LC0zOTAxMDkwNzMsNDYxMjgyMzQ3LC01MD
-A0OTU5NDYsLTc0MTA3NTIxNywxNDI3NjI1NzM4LC01MjY4MzQ4
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTE4NzY5NDYyMDYsLTE4NzY5NDYyMDYsLT
+U2NjYzODUxNywxMjI0Mjk0MTA5LDI0Mjc2NjI3NiwyMDgyMDMy
+NzIxLDQ1MzI5Mjc1NSwtMzkwMTA5MDczLDQ2MTI4MjM0NywtNT
+AwNDk1OTQ2LC03NDEwNzUyMTcsMTQyNzYyNTczOCwtNTI2ODM0
+ODEyXX0=
 -->
